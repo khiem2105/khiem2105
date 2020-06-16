@@ -19,5 +19,5 @@ int main() {
     // larger(*g,0,mark,&q);
     // for(i = 0; i < 6; i++) mark[i] = 0;
     // profondeur(*g,0,mark);
-    dijsktra(*g,0);
+    dijsktra(*g,1);
 }        
