@@ -42,3 +42,8 @@ void printGraph(matG g) {
         printf("\n");
     }
 }
+void profondeur(matG g, int k, int mark[]) {
+    if(mark[k] != 1) {
+        
+    }
+}
