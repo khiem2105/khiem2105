@@ -16,5 +16,7 @@ int main() {
     int pre[V];    
     printGraph(*g);
     //profondeur(*g,0,mark,pre);
-    dijkstra(*g,0);
+    //dijkstra(*g,0);
+    if(checkStrongConnectivity(*g))
+        printf("Graph is strongly connected");
 }    

@@ -38,13 +38,12 @@ void printGraph(matG g) {
     }
 }
 //Duyet sau
-void profondeur(matG g,int k,int mark[],int pre[]) {
+void profondeur(matG g,int k,int mark[]) {
     mark[k] = 1;
     printf("%d-",k);
     for(int i = 0; i < g.numvertices; i++) {
         if(mark[i] == 0 && g.graph[k][i] != 1000) {
-            pre[i] = k;
-            profondeur(g,i,mark,pre);
+            profondeur(g,i,mark);
         }
     }
 }
@@ -118,4 +117,30 @@ void dijkstra(matG g, int star) {
     }
     //Hien thi duong di
     disPlayPath(distance, pred, g.numvertices, star);
+}
+//Kiem tra tinh lien thong cua do thi vo huong
+int checkConnectivity(matG g) {
+    int visited[g.numvertices];
+    for(int i = 0; i < g.numvertices; i++)
+        visited[i] = 0;
+    profondeur(g,0,visited);
+    for(int i = 0; i < g.numvertices; i++) {
+        if(visited[i] == 0)
+            return 0;
+    }
+    return 1;    
+}
+//Kiem tra tinh lien thong cua do thi co huong
+int checkStrongConnectivity(matG g) {
+    int visited[g.numvertices];
+    for(int i = 0; i < g.numvertices; i++)
+        visited[i] = 0;
+    for(int i = 0; i < g.numvertices; i++) {
+        profondeur(g,i,visited);
+        for(int j = 0; j < g.numvertices; j++) {
+            if(visited[j] == 0)
+                return 0;
+        }
+    }
+    return 1;
 }
