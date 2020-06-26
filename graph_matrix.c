@@ -19,4 +19,6 @@ int main() {
     //dijkstra(*g,0);
     if(checkStrongConnectivity(*g))
         printf("Graph is strongly connected");
+    printf("Number of connected component:%d",countConnectedComponent(*g));
+    Prim(*g);    
 }    

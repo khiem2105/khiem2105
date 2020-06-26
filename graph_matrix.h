@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "file_list.h"
+#include <stdbool.h>
 //Adjacency matrix
 struct matG {
     int numvertices;
@@ -143,4 +144,78 @@ int checkStrongConnectivity(matG g) {
         }
     }
     return 1;
+}
+//Dem so mien line thong
+//Kiem tra phan tu chua duoc tham
+int checkVertexNotVisited(int visited[], int n) {
+    for(int i = 0; i < n; i++) {
+        if(visited[i] == 0)
+            return i;
+    }
+    return -1;
+}
+int countConnectedComponent(matG g) {
+    int visited[g.numvertices];
+    for(int i = 0; i < g.numvertices; i++)
+        visited[i] = 0;
+    int count = 0,star = 0;
+    while(star != -1) {
+        profondeur(g, star, visited);
+        star = checkVertexNotVisited(visited,g.numvertices);
+        count++;
+    }
+    return count;
+}
+//Prim algorithm
+//Tim edge co trong so nho nhat
+int minKey(int key[], bool mstSet[],int n) {
+    int min = 1000, min_index;
+    for(int i = 0; i < n; i++) {
+        if(mstSet[i] == false && key[i] < min) {
+            min = key[i];
+            min_index = i;
+        }
+    }
+    return min_index;
+}
+//In cay bao trum nho nhat
+void printMST(int parent[], matG g) {
+    printf("Edge \tWeight\n:");
+    for(int i = 1; i < g.numvertices; i++)
+        printf("%d - %d \t%d\n",parent[i],i,g.graph[parent[i]][i]);
+}
+//Prim
+void Prim(matG g) {
+    //Array to store constructed MST
+    int parent[g.numvertices];
+    //Key values used to pick minimum weight edge
+    int key[g.numvertices];
+    //Represent set of vertices included in MST
+    bool mstSet[g.numvertices];
+
+    //Initialize all keys as INFINITE
+    for(int i = 0; i < g.numvertices; i++) {
+        key[i] = 1000;
+        mstSet[i] = false;
+    }
+    //Include first vertex in MST
+    key[0] = 0;
+    parent[0] = -1;//First node is always root of MST
+    //The MST will have V vertices
+    for(int count = 0; count < g.numvertices-1; count++) {
+        //Pick the minimum key vertex from the
+        //set of vertices not yet included in MST
+        int u = minKey(key,mstSet,g.numvertices);
+        //Add the picked vertex to the MST set
+        mstSet[u] = true;
+        //Update key value and parent index of the
+        //adjacent vertices of the picked vertex
+        //Consider only those not yet included in MST
+        for(int v = 0; v < g.numvertices; v++) {
+            if(g.graph[u][v] != 1000 && mstSet[v] == false && g.graph[u][v] < key[v])
+                parent[v] = u, key[v] = g.graph[u][v];
+        }
+    }
+    //Print the construted MST
+    printMST(parent,g);
 }
