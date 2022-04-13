@@ -19,10 +19,10 @@ Hi there, I'm Khiem, as CS student 👋
 <h2 align="center">
 Currently I'm doing a Master with a strong focus on AI, Robotics and Optimization at Sorbonne University, Paris, France
 </h2> 
-<h3>
-💬 More about my Master program: <a href="https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-androide"><img style="top: 10px;vertical-align:middle" src="https://user-images.githubusercontent.com/44642952/163171822-fa718687-5e40-41a6-b4b2-27a3268678ee.png" alt="Sorbonne" width="21px"/></a>
-</h3>
-Passionate about Machine Learning and Reinforcement Learning in particular, I'm looking for a 3-month intership in these areas, start at the end of May
+
+### 💬 More about my Master program: <a href="https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-androide">Master ANDROIDE Sorbonne University</a>
+
+### Passionate about Machine Learning and Reinforcement Learning in particular, I'm looking for a 3-month intership in these areas, start at the end of May
 
 ### 🤝 Connect with me:
 
