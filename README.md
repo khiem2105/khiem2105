@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">
+<h2 align="center">
 Hi there, I'm Khiem 👋
-</h3>
+</h2>
 
 <h2 align="center">
 I'm a CS student. Currently I'm doing a Master with a strong focus on AI, Robotics and Optimization
@@ -25,8 +25,10 @@ Passionate about Machine Learning and Reinforcement Learning in particular, I'm 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/khiem2105/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=" LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/khiem2105"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="21px"/></a>
+<a href="mailto: tan_khiem.huynh@etu.sorbonne-universite.fr"><img align="left" src="https://user-images.githubusercontent.com/44642952/163170500-eafa5d39-22e9-4aac-a109-40defe60d27e.svg" alt="Email" width="21px"/></a>
+
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
@@ -36,8 +38,7 @@ Passionate about Machine Learning and Reinforcement Learning in particular, I'm 
 
 - Reinforcement Learning
 - Machine Learning (Image & Signal Processing)
-- NLP
-- Information Retrieval
+- NLP & Information Retrieval
 
 ## 💼 Technical Skills
 
