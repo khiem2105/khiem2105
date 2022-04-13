@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">
-Hi there, I'm Khiem 👋
+Hi there, I'm Khiem, as CS student 👋
 </h2>
 
 <h2 align="center">
-I'm a CS student. Currently I'm doing a Master with a strong focus on AI, Robotics and Optimization
+Currently I'm doing a Master with a strong focus on AI, Robotics and Optimization at Sorbonne University, Paris, France
 </h2> 
-
+<h3>
+💬 More about my Master program: <a href="https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-androide"><img align="left" src="https://user-images.githubusercontent.com/44642952/163171822-fa718687-5e40-41a6-b4b2-27a3268678ee.png" alt="Sorbonne" width="21px"/></a>
+</h3>
 Passionate about Machine Learning and Reinforcement Learning in particular, I'm looking for a 3-month intership in these areas, start at the end of May
 
 ### 🤝 Connect with me:
