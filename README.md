@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">
-Hi there, I'm Khiem, as CS student 👋
+Hi there, I'm Khiem, a CS student 👋
 </h2>
 
 <h2 align="center">
@@ -34,7 +34,7 @@ Currently I'm doing a Master with a strong focus on AI, Robotics and Optimizatio
 
 ## 🔭 I'm currently working on
 
-- Implement Stein Variational Policy Algorithm using SaLinA - a modern library developed by Facebook AI Research
+- Implement Stein Variational Policy Gradient Algorithm using SaLinA - a modern library developed by Facebook AI Research for researching about Learning Sequential Agents
 
 ## 🌱 I'm currently learning
 
@@ -43,15 +43,8 @@ Currently I'm doing a Master with a strong focus on AI, Robotics and Optimizatio
 - NLP & Information Retrieval
 
 ## 💼 Technical Skills
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+# Programming Languages
+![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </br>
 
