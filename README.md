@@ -43,7 +43,7 @@ Currently I'm doing a Master with a strong focus on AI, Robotics and Optimizatio
 - NLP & Information Retrieval
 
 ## 💼 Technical Skills
-# Programming Languages
+### Programming Languages
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </br>
