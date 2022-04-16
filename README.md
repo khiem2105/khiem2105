@@ -61,6 +61,10 @@ Currently I'm doing a Master with a strong focus on AI, Robotics and Optimizatio
 
 </br>
 
+### Others
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
 ## 📈 GitHub Stats 
