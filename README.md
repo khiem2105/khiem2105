@@ -17,7 +17,7 @@ Hi there, I'm Khiem, a CS student 👋
 </h2>
 
 <h2 align="center">
-Currently I'm doing a Master with a strong focus on AI, Robotics and Optimization at Sorbonne University, Paris, France
+Currently I'm doing a Master in Computer Science with a strong focus on AI, Robotics and Optimization at Sorbonne University, Paris, France
 </h2> 
 
 ### 💬 More about my Master program: <a href="https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-androide">Master ANDROIDE Sorbonne University</a>
