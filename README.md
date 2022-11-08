@@ -17,30 +17,29 @@ Hi there, I'm Khiem, a CS student 👋
 </h2>
 
 <h2 align="center">
-Currently I'm doing a Master in Computer Science with a strong focus on AI, Robotics and Optimization at Sorbonne University, Paris, France
+Currently I'm doing a Master in Computer Science with a strong focus on Machine Learning, Deep Learning and Optimization at Sorbonne University, Paris, France
 </h2> 
 
-### 💬 More about my Master program: <a href="https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-androide">Master ANDROIDE Sorbonne University</a>
+### 💬 More about my Master program: <a href="https://dac.lip6.fr/master/stage-2022-2023/">Master DAC Sorbonne University</a>
 
-### Passionate about Machine Learning and Reinforcement Learning in particular, I'm looking for a 3-month intership in these areas, start at the end of May
+### Passionate about Machine Learning and Deep Learning, I'm looking for a 6-month research intership in these areas, with a possibility to continue in Ph.D. 
 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/khiem2105/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=" LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/khiem2105"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="21px"/></a>
-<a href="mailto: tan_khiem.huynh@etu.sorbonne-universite.fr"><img align="left" src="https://user-images.githubusercontent.com/44642952/163170500-eafa5d39-22e9-4aac-a109-40defe60d27e.svg" alt="Email" width="21px"/></a>
 
 </br>
 
 ## 🔭 I'm currently working on
 
-- Implement Stein Variational Policy Gradient Algorithm using SaLinA - a modern library developed by Facebook AI Research for researching about Learning Sequential Agents
+- Reproduce challenge: Synthetize, re-implement, reproduce and analyse in depth the paper <a href="https://openreview.net/forum?id=d8CBRlWNkqH">Neural Optimal Transport</a> submitted for the ICLR 2023 open review
 
 ## 🌱 I'm currently learning
 
-- Reinforcement Learning
+- Deep Reinforcement Learning
 - Machine Learning (Image & Signal Processing)
-- NLP & Information Retrieval
+- Generative Model (VAE, GANs, Diffusion Models, Normalizing Flows)
+- Physic-informed Deep Learning (Neural ODEs)
 
 ## 💼 Technical Skills
 ### Programming Languages
