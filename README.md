@@ -69,7 +69,7 @@ Currently I'm doing a Master in Computer Science with a strong focus on Machine 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khiem2105&count_private=True&them=radical)](https://github.com/khiem2105)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khiem2105&count_private=True&them=tokyonight)](https://github.com/khiem2105)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khiem2105&layout=compact)](https://github.com/khiem2105)
 
