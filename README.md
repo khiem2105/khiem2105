@@ -40,6 +40,7 @@ Currently I'm doing a Master in Computer Science with a strong focus on Machine 
 - Machine Learning (Image & Signal Processing)
 - Generative Model (VAE, GANs, Diffusion Models, Normalizing Flows)
 - Physic-informed Deep Learning (Neural ODEs)
+- Continuous Optimization (mainly first-order)
 
 ## 💼 Technical Skills
 ### Programming Languages
@@ -68,7 +69,7 @@ Currently I'm doing a Master in Computer Science with a strong focus on Machine 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khiem2105)](https://github.com/khiem2105)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khiem2105&count_private=True)](https://github.com/khiem2105)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khiem2105&layout=compact)](https://github.com/khiem2105)
 
