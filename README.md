@@ -22,7 +22,7 @@ Currently I'm doing a Master in Computer Science with a strong focus on Machine 
 
 ### 💬 More about my Master program: <a href="https://dac.lip6.fr/master/stage-2022-2023/">Master DAC Sorbonne University</a>
 
-### Passionate about Machine Learning and Deep Learning, I'm looking for a 6-month research intership in these areas, with a possibility to continue in Ph.D. 
+### Passionate about Machine Learning and Deep Learning, I'm looking for Ph.d in these areas. 
 
 ### 🤝 Connect with me:
 
@@ -32,14 +32,14 @@ Currently I'm doing a Master in Computer Science with a strong focus on Machine 
 
 ## 🔭 I'm currently working on
 
-- Reproduce challenge: Synthetize, re-implement, reproduce and analyse in depth the paper <a href="https://openreview.net/forum?id=d8CBRlWNkqH">Neural Optimal Transport</a> submitted for the ICLR 2023 open review
+- Visual Discovery of the Physical Law of Light Propagation
 
 ## 🌱 I'm currently learning
 
+- Computer Vision
 - Deep Reinforcement Learning
-- Machine Learning (Image & Signal Processing)
 - Generative Model (VAE, GANs, Diffusion Models, Normalizing Flows)
-- Physic-informed Deep Learning (Neural ODEs)
+- Physic-informed Deep Learning
 - Continuous Optimization (mainly first-order)
 
 ## 💼 Technical Skills
