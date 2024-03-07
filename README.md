@@ -17,12 +17,8 @@ Hi there, I'm Khiem, a CS student 👋
 </h2>
 
 <h2 align="center">
-Currently I'm doing a Master in Computer Science with a strong focus on Machine Learning, Deep Learning and Optimization at Sorbonne University, Paris, France
+Phd student at INRIA Lyon, France
 </h2> 
-
-### 💬 More about my Master program: <a href="https://dac.lip6.fr/master/stage-2022-2023/">Master DAC Sorbonne University</a>
-
-### Passionate about Machine Learning and Deep Learning, I'm looking for Ph.d in these areas. 
 
 ### 🤝 Connect with me:
 
@@ -32,15 +28,7 @@ Currently I'm doing a Master in Computer Science with a strong focus on Machine 
 
 ## 🔭 I'm currently working on
 
-- Visual Discovery of the Physical Law of Light Propagation
-
-## 🌱 I'm currently learning
-
-- Computer Vision
-- Deep Reinforcement Learning
-- Generative Model (VAE, GANs, Diffusion Models, Normalizing Flows)
-- Physic-informed Deep Learning
-- Continuous Optimization (mainly first-order)
+- Online Federated Learning for Data Stream
 
 ## 💼 Technical Skills
 ### Programming Languages
