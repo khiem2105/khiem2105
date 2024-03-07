@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">
-Hi there, I'm Khiem, a CS student 👋
+Hi there, I'm Khiem, a Phd student in Computer Science at INRIA Lyon, France 👋
 </h2>
-
-<h2 align="center">
-Phd student at INRIA Lyon, France
-</h2> 
 
 ### 🤝 Connect with me:
 
