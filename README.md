@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">
-Hi there, I'm Khiem, a Phd student in Computer Science at INRIA Lyon, France 👋
+I'm Khiem, a PhD student in Computer Science at INRIA Lyon, France 👋
 </h2>
 
 ### 🤝 Connect with me:
@@ -24,8 +24,9 @@ Hi there, I'm Khiem, a Phd student in Computer Science at INRIA Lyon, France �
 
 ## 🔭 I'm currently working on
 
-- Online Federated Learning for Data Stream
+- Federated Learning/Distributed Stochastic Optimization.
 
+<!--
 ## 💼 Technical Skills
 ### Programming Languages
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -58,3 +59,4 @@ Hi there, I'm Khiem, a Phd student in Computer Science at INRIA Lyon, France �
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khiem2105&layout=compact)](https://github.com/khiem2105)
 
 view rawREADME.txt hosted with ❤ by GitHub
+-->
