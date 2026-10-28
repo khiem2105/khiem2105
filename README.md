@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">
-I'm Khiem, a PhD student in Computer Science at INRIA Lyon, France 👋
-</h2>
 
+I'm Khiem, a PhD student in Computer Science at INRIA Lyon, France 👋
+
+<!--
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/khiem2105/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=" LinkedIn" width="21px"/></a>
@@ -25,6 +25,7 @@ I'm Khiem, a PhD student in Computer Science at INRIA Lyon, France 👋
 ## 🔭 I'm currently working on
 
 - Federated Learning/Distributed Stochastic Optimization.
+-->
 
 <!--
 ## 💼 Technical Skills
